@@ -1,0 +1,10 @@
+# Optimization modeling library used by the notebook
+pyomo>=6.7,<7.0
+
+# Jupyter environment for opening and running the .ipynb notebook
+jupyterlab>=4.0,<5.0
+notebook>=7.0,<8.0
+ipykernel>=6.29,<7.0
+
+# CBC solver is an external executable and is NOT installed by pip.
+# Install CBC separately and ensure the `cbc` command is available on PATH.
