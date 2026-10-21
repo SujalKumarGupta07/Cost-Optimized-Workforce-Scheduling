@@ -117,8 +117,8 @@ The notebook's saved solver output reports a total weekly wage cost of **10,692 
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/workforce-scheduling-optimization.git
-cd workforce-scheduling-optimization
+git clone https://github.com/SujalKumarGupta07/Cost-Optimized-Workforce-Scheduling
+cd Cost-Optimized-Workforce-Scheduling
 ```
 
 Replace `YOUR_USERNAME` with your GitHub username.
